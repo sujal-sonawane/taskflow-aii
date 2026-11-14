@@ -1,0 +1,34 @@
+{
+  "viewportsTested": [
+    "desktop (1440px)",
+    "laptop (1366px)",
+    "tablet (768px)",
+    "mobile (390px)",
+    "small-mobile (360px)"
+  ],
+  "overflowResults": {
+    "desktop": false,
+    "laptop": false,
+    "tablet": false,
+    "mobile": false,
+    "small-mobile": false
+  },
+  "navLinksTested": [
+    "#product-preview",
+    "#features",
+    "#how-it-works",
+    "#pricing",
+    "#contact"
+  ],
+  "ctaButtonsTested": [],
+  "pricingIntegration": true,
+  "formValidationEmpty": true,
+  "formValidationInvalidEmail": true,
+  "formSubmissionSuccess": true,
+  "faqAccordionWorking": true,
+  "interactiveTasksWorking": true,
+  "productTabsWorking": true,
+  "brokenImages": [],
+  "deadButtons": [],
+  "consoleErrorsCount": 0
+}
